@@ -49,10 +49,10 @@ You can explore my repositories below to see my latest work.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Repo Rank 
 
-![Sufiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sufiyandesigner&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyandesigner&layout=compact&theme=tokyonight)
+![Top Repositorie]([https://github-readme-stats.vercel.app/api?username=Sufiyandesigner&show_icons=true&theme=tokyonight](https://muhammadsufiyandev.github.io/assignment-of-making-responsive-site-animated/))  
+
 
 ---
 
